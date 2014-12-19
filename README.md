@@ -1,3 +1,3 @@
 flymachine
 ==========
-3D Android game using Bullet engine
+3D Android game using GDX + Bullet engine
